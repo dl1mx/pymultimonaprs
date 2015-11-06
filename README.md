@@ -52,6 +52,11 @@ This will be read in like the status-file and can look like that:
 		"direction": 240,
 		"gust": 200
 	},
+	"rain": {
+		"rainlast1h": 10,
+		"rainlast24h": 20,
+		"rainmidnight": 15
+	},
 	"temperature": 18.5,
 	"humidity": 20,
 	"pressure": 1013.25
